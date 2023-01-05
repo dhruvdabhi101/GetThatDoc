@@ -7,8 +7,6 @@ Sharing Platform.
 Site is live at http://getthatdoc.epizy.com/
 
 
-
-
 ## Purpose
 
 
